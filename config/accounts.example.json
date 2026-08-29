@@ -1,13 +1,13 @@
 {
   "accounts": [
     {
-      "id": "account1",
+      "id": "🌈路浅",
       "enabled": true,
       "env_file": ".env.account1"
     },
     {
       "id": "account2",
-      "enabled": true,
+      "enabled": false,
       "env_file": ".env.account2"
     }
   ]
